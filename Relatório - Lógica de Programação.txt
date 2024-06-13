@@ -1,0 +1,8 @@
+18/04 - Começo da matéria curricular Lógica de Programação.
+Criado projeto Java com o menu do jogo de adivinhação.
+Projeto postado no GitHub.
+
+16/05 - Criada nova versão do jogo de adivinhação com estrotura do menu feita com If... Else.
+
+23/05 - Feita a lógica no jogo com laços de repetição utilizando o laço For.
+Baixado o projeto para a Situação de Aprendizagem usando o Spring Initializr.

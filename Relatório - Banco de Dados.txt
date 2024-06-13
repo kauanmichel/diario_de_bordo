@@ -1,0 +1,11 @@
+25/04 - Começo da matéria curricular Banco de Dados.
+Apresentação do conceito de Banco de dados.
+Criação de modelo Entidade Relacionamento.
+
+02/05 - Criação do Banco de Dados com linguagem de programção MySQL.
+Utilização dos comandos de insert para inserção de informações nas tabelas.
+
+09/05 Utilizado engenharia do MySQL para gerar o script de criação do banco.
+Inserido informações com o comando insert.
+Utilizado comando select para ver as informações.
+Salvado as insformações no GitHub.
