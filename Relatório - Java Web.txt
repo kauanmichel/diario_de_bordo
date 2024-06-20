@@ -1,0 +1,8 @@
+20/06 - Começo da matéria curricular de Java Web
+
+Planejamento do projeto eventos
+Destruição do antigo repisitório "eventos", substituido por um novo com as dependências nescessárias
+Criação do novo projeto utilizando do spring Iniatlizr com as dependências explicadas pelo professor.
+Aplicado o spring boot no projeto do IntelliJ
+Demonstração de como o projeto irá funcionar com explicação dos comandos como get, post e delete.
+Criação de diversas classes
