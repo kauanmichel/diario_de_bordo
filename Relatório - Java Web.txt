@@ -6,3 +6,7 @@ Criação do novo projeto utilizando do spring Iniatlizr com as dependências ex
 Aplicado o spring boot no projeto do IntelliJ
 Demonstração de como o projeto irá funcionar com explicação dos comandos como get, post e delete.
 Criação de diversas classes
+
+01/08 - Retorno ao projeto
+
+Trabalhado em novos repositórios e algumas correções no projeto antigo.
