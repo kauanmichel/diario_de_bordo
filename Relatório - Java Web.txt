@@ -14,3 +14,7 @@ Trabalhado em novos repositórios e algumas correções no projeto antigo.
 08//08 - Continuação
 
 Criação da classe endereco e EnderecoRepository e acompanhamos algumas apresentações do Mundo Senai.
+
+22/08 - Continuação
+
+Término do projeto com sucesso e testes no postman.
